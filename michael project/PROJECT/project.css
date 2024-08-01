@@ -1,0 +1,37 @@
+.header nav ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.header nav ul li{
+    padding: 20px;
+    margin: 10px;
+    background-color: firebrick;
+  }
+  .title{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    margin: 50px;
+    padding: 40px;
+}
+.numa{
+    background-color: aqua;
+    border: 30%;
+   padding: 40px; 
+}
+.yaki{
+    background-color: aqua;
+    border: 30%;
+   padding: 40px;
+}
+.fada{
+    background-color: aqua;
+    border: 30%;
+   padding: 40px;
+}
+.rayi{
+    background-color: aqua;
+    border: 30%;
+   padding: 40px;
+}

@@ -1,0 +1,10 @@
+.header nav ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.header nav ul li{
+    padding: 20px;
+    margin: 10px;
+    background-color: firebrick;
+  }
